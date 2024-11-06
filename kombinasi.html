@@ -177,7 +177,7 @@
             const requestData = {
                 model: "Qwen/Qwen2.5-72B-Instruct",
                 messages: [
-                    { role: "user", content: `Create a new simple description based on the combination of the following two descriptions: ${item1} and ${item2} Make a simple description with a model like the two descriptions.` }
+                    { role: "user", content: `Create a description for me with key-value pairs for a fantasy creature with based on the combination of the following two descriptions: ${item1} and ${item2} Don't use asterisks.` }
                 ],
                 max_tokens: 1000,
                 stream: false
@@ -218,7 +218,7 @@
 
             const deskripsi1 = daftarGambar[index1].deskripsi;
             const deskripsi2 = daftarGambar[index2].deskripsi;
-            const promptGabungan = `${deskripsi1} dan ${deskripsi2}`;
+            const promptGabungan = `${deskripsi1} Combined with ${deskripsi2}`;
 
             // Menampilkan pesan loading
             const resultDiv = document.getElementById('result');
@@ -245,7 +245,7 @@
                 })
                 .then(data => {
                     const newDescription = data.choices[0].message.content;
-                    descriptionDiv.innerHTML = `<strong>Deskripsi Baru:</strong> ${newDescription}`;
+                    descriptionDiv.innerHTML = `<strong> ${newDescription} </strong>`;
                     copyButton.style.display = "inline-block"; // Tampilkan tombol salin
                 })
                 .catch(error => {

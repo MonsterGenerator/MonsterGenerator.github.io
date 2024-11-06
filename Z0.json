@@ -1,0 +1,16 @@
+{
+  "species": [
+    "Mammal",
+    "Reptile",
+    "Bird",
+    "Amphibian",
+    "Fish",
+    "Insect",
+    "Arachnid",
+    "Mollusk",
+    "Crustacean",
+    "Echinoderm",
+    "Cnidarian",
+    "Annelid"
+  ]
+}

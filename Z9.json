@@ -1,0 +1,16 @@
+{
+  "conservation_status": [
+    "Extinct",
+    "Critically Endangered",
+    "Endangered",
+    "Vulnerable",
+    "Near Threatened",
+    "Least Concern",
+    "Data Deficient",
+    "Not Evaluated",
+    "Recovering",
+    "Stable",
+    "Threatened",
+    "Keystone Species"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "behavior": [
+    "Nocturnal",
+    "Diurnal",
+    "Social",
+    "Solitary",
+    "Migratory",
+    "Territorial",
+    "Reclusive",
+    "Playful",
+    "Aggressive",
+    "Curious",
+    "Predatory",
+    "Cautious"
+  ]
+}
