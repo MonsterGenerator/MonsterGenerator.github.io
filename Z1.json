@@ -11,6 +11,16 @@
     "Wetlands",
     "Urban",
     "Temperate Forest",
-    "Coral Reef"
+    "Coral Reef",
+    "tropical forest",
+    "swamp",
+    "riverbank",
+    "cave",
+    "seabed",
+    "outer space",
+    "lunar surface",
+    "underground",
+    "jungle",
+    "flexible"
   ]
 }

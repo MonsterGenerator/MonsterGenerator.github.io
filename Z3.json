@@ -11,6 +11,15 @@
     "Transparent",
     "Bumpy",
     "Ciliated",
-    "Wings"
+    "Wings",
+    "antennae",
+    "horns",
+    "proboscis",
+    "tail",
+    "colorful",
+    "claws",
+    "tentacles",
+    "shell",
+    "-"
   ]
 }

@@ -1,16 +1,12 @@
 {
-  "conservation_status": [
-    "Extinct",
-    "Critically Endangered",
-    "Endangered",
-    "Vulnerable",
-    "Near Threatened",
-    "Least Concern",
-    "Data Deficient",
-    "Not Evaluated",
-    "Recovering",
-    "Stable",
-    "Threatened",
-    "Keystone Species"
+  "life span": [
+    "1-5 years",
+    "6-10 years",
+    "11-20 years",
+    "more than 20 years",
+    "unknown",
+    "less than 1 year",
+    "1-3 years",
+    "almost eternal"
   ]
 }

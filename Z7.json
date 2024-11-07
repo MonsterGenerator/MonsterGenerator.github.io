@@ -1,16 +1,10 @@
 {
-  "threat_level": [
-    "Low",
-    "Moderate",
-    "High",
-    "Severe",
-    "Critical",
-    "Imminent",
-    "Contained",
-    "Elevated",
-    "Extreme",
-    "Minimal",
-    "Guarded",
-    "Unknown"
+  "adapt": [
+    "camouflage",
+    "adaptation to extreme temperatures",
+    "swimming ability",
+    "flying ability",
+    "Echolocation",
+    "-"
   ]
 }

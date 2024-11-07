@@ -1,5 +1,10 @@
 {
   "species": [
+    "aquatic",
+    "aves",
+    "unrecorded",
+   "primate",
+   "parasite",
     "Mammal",
     "Reptile",
     "Bird",
@@ -11,6 +16,12 @@
     "Crustacean",
     "Echinoderm",
     "Cnidarian",
-    "Annelid"
+    "Annelid",
+    "Arthropods",
+    "Cosmic beings",
+    "Humanoid",
+    "Anomaly",
+    "Golem",
+    "Mystical creatures"
   ]
 }

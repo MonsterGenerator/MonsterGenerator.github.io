@@ -1,16 +1,9 @@
 {
-  "color": [
-    "Red",
-    "Blue",
-    "Green",
-    "Yellow",
-    "Black",
-    "White",
-    "Brown",
-    "Gray",
-    "Orange",
-    "Purple",
-    "Pink",
-    "Striped"
+  "speed": [
+    "slow",
+    "normal",
+    "fast",
+    "very fast",
+    "very slow"
   ]
 }
